@@ -6,6 +6,7 @@ import About from './pages/About'
 import Team from './pages/Team'
 import Outreach from './pages/Outreach'
 import Contact from './pages/Contact'
+import Sponsors from './pages/Sponsors'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
             <Route path="/about" element={<About />} />
             <Route path="/team" element={<Team />} />
             <Route path="/outreach" element={<Outreach />} />
+            <Route path="/sponsors" element={<Sponsors />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
         </div>
@@ -26,4 +28,4 @@ function App() {
   )
 }
 
-export default App 
+export default App

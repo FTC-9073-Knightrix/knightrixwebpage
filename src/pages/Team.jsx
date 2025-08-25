@@ -45,20 +45,6 @@ const Team = () => {
       description: "Stuff"
     },
     {
-      name: "Eric Han",
-      role: "Mechanical and CAD",
-      specialty: "Mechanical and CAD",
-      image: "/imgs/knightrixsymbol.jpg",
-      description: "Stuff"
-    },
-    {
-      name: "Camden Oeur",
-      role: "Mechanical and CAD",
-      specialty: "Mechanical and CAD",
-      image: "/imgs/knightrixsymbol.jpg",
-      description: "Stuff"
-    },
-    {
       name: "Hatim Ghadiali",
       role: "Mechanical and CAD",
       specialty: "Mechanical and CAD",
@@ -67,13 +53,6 @@ const Team = () => {
     },
     {
       name: "Krishiv Chandra",
-      role: "Mechanical and CAD",
-      specialty: "Mechanical and CAD",
-      image: "/imgs/knightrixsymbol.jpg",
-      description: "Stuff"
-    },
-    {
-      name: "KJ",
       role: "Mechanical and CAD",
       specialty: "Mechanical and CAD",
       image: "/imgs/knightrixsymbol.jpg",
