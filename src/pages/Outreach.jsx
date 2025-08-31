@@ -28,7 +28,7 @@ const Outreach = () => {
       title: "Elementary School Visit",
       date: "June 2025",
       location: "Elementary Schools",
-      description: "Visited Lees Corner Elementary School to inspire future engineers in the grades of 5-6.",
+      description: "Visited Lees Corner Elementary School to inspire future engineers in the grades of 5-6 to join FTC.",
       image: "/imgs/knightrixsymbol.jpg",
       attendees: "100+ Students"
     },
